@@ -23,6 +23,7 @@ Using a single for-loop, iterate over the dictionary
 and print out all of the dictionary keys and values.
 
 """
+from __future__ import print_function, unicode_literals
 
 
 def main():
