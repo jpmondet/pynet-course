@@ -78,10 +78,10 @@ CLASS OUTLINE
 Additional Content:
 
 A Byte of Python, Functions
-()
+(http://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiNDI1NDQ5NyIsImRlbGl2ZXJ5X2lkIjoiMjI0NjgyOTEwMiIsInVybCI6Imh0dHBzOi8vcHl0aG9uLnN3YXJvb3BjaC5jb20vZnVuY3Rpb25zLmh0bWw_X19zPXhuNm5vNmZ6N3l1Nnpya29uZHZjIn0)
 
 How to use the Python Debugger
-()
+(http://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiNDI1NDQ5NyIsImRlbGl2ZXJ5X2lkIjoiMjI0NjgyOTEwMiIsInVybCI6Imh0dHBzOi8vd3d3LmRpZ2l0YWxvY2Vhbi5jb20vY29tbXVuaXR5L3R1dG9yaWFscy9ob3ctdG8tdXNlLXRoZS1weXRob24tZGVidWdnZXI_X19zPXhuNm5vNmZ6N3l1Nnpya29uZHZjIn0)
 
 
 
